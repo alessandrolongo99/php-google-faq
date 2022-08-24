@@ -79,10 +79,11 @@ main{
 main h1{
     font-size: 1.8rem;
     color: darkslategrey;
+    margin-top: 5rem;
     margin-bottom: 2rem;
 }
 
-main p{
+main p, li{
     line-height: 1.6rem;
     margin-bottom: 2rem;
 }
